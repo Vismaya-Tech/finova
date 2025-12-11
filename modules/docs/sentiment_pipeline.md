@@ -1,4 +1,4 @@
-# data_collector.py — Financial Data Collector
+# sentiment_analysis.py — Social Sentiment Analyzer
 
 Collects tweets, news, YouTube comments to analyze public sentiment about the company.
 

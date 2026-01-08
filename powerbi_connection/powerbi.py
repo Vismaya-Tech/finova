@@ -11,7 +11,7 @@ from typing import Dict, List, Tuple, Optional
 
 # ==================== CONFIGURATION ====================
 class Config:
-    OUTPUT_FILE = "screener_normalized_data.csv"
+    OUTPUT_FILE = "powerbi_inputs.csv"
     SOURCE = "Screener.in"
     MAX_YEARS = 6
     REQUEST_DELAY = 1.0  # Delay between requests

@@ -1,4 +1,4 @@
-# 📚 FINANCIAL ANALYSIS SYSTEM - SETUP GUIDE
+wh# 📚 FINANCIAL ANALYSIS SYSTEM - SETUP GUIDE
 # ==========================================
 # Complete Beginner's Guide to Automated Financial Analysis
 
